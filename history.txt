@@ -1,0 +1,1387 @@
+ls
+pwd
+ls
+ruby helloworld.rb
+ruby hellowrold.rb
+ls
+ruby helloworld.rb
+ruby reviewApp-sample.rb
+sudo chown ec2-user:wheel /usr
+sudo chown ec2-user:wheel /usr/local
+sudo chown -R ec2-user:rvm /usr/local/rvm
+rvm install 2.5.1
+ruby -v
+rvm --default use 2.5.1
+sudo yum install mysql-devel
+sudo service mysqld start
+gem install bundler
+gem install rails --version="5.2.1"
+rails -v
+rails _5.2.1_ new pictweet -d mysql
+ls
+cd Rails
+rails _5.2.1_ new pictweet -d mysql
+ls
+cd pictweet/
+pwd
+bundle update
+bundle install
+rake db:create
+sudo yum install phpmyadmin
+sudo service httpd start
+cd ~/environment/shell
+cd ..
+pwd
+ls
+cd shell
+sh move.sh
+cd ..
+cd pictweet/
+pwd
+ls 
+cd Rails
+cd shell/
+sh move.sh
+sudo service httpd star
+sudo service httpd start
+sh move.sh
+sudo service httpd start
+eit
+exit
+sudo service httpd start
+pwd
+cd Rails/
+cd shell/
+sh move.sh
+history
+sudo service httpd start
+sudo service mysql start
+cd ..
+sudo service httpd start
+sudo service mysql start
+cd pictweet/
+rake db:create
+pwd
+bundle update
+bundle install
+rake db:create
+sudo service myslqd status
+sudo service myslqd start
+sudo yum install mysql-devel
+mysql -u root 
+mysql
+mysql.server start
+sudo service mysqld status
+sudo service mysqld start
+sudo service mysqld status
+rake db:create
+sudo service httpd status
+history
+pwd
+ls
+cd Rails/
+ls
+cd ..
+sudo service httpd start
+sudo service mysqld start
+history
+pwd
+ls
+cd Rails
+ls
+cd pictweet/
+pwd
+rails g controller tweets
+pwd
+rails s -p $PORT -b $IP
+pwd
+rails s -p $PORT -b $IP
+cd .. ..
+cd ..
+sudo service httpd start
+sudo mysqld start
+sudo service  mysqld start
+cd Rails/
+cd pictweet/
+rails s -p $PORT -b $IP
+sudo service httpd start
+sudo service mysqld start
+ls
+cd Rails/
+cd pictweet/
+rails s -p $PORT -b $IP
+ls
+cd Rails/
+ls
+cd pictweet/
+pwd
+rails g model tweet
+pwd rake db:migrate
+pwd
+rake db:migrate
+pwd
+rails c
+rails s -p $PORT -b $IP
+pwd
+bundle install
+rails s -p $PORT -b $IP
+pwd
+bundle install
+rails s -p $PORT -b $IP
+rails g devise:install
+rails g devise user
+rake db:migrate
+rails s -p $PORT -b $IP
+rails g devise:views
+rails s -p $PORT -b $IP
+sudo service httpd start
+sudo service mysqld start
+ls
+cd Rails/
+cd pictweet/
+sudo service httpd start
+sudo service mysqld start
+history
+¥ls
+ls
+cd Rails/
+ls
+cd pictweet/
+ls
+pwd
+rails g migration AddNicknameToUsers nickname:string
+rake db:migrate
+rails g migration AddUserIdTweets user_id:integer
+rake db:migrate
+rake db:rollback
+rails g migration AddUserIdToTweets user_id:integer
+rake db migrate
+rake db:migrate
+rails g controller users
+rails g migration RemoveNameFromTweets name:string
+rake db:migrate
+rails c
+rake routes
+rails g model comment
+rake db:migrate
+rake routes
+rails g controller comments
+rails s -p $PORT -b $IP
+cd ..
+pwd
+cd ..
+pwd
+cd Rails/
+git clone https://github.com/exp-drill/mooovi.git
+ls
+cd mooovi/
+bundle install
+rake db:create
+rails s -p $PORT -b $IP
+cd ..
+cd mooovi/
+pwd
+bundle install
+ruby scraping.rb
+pwd
+rails g model product
+rake db:migrate
+rails c
+ls
+cd app
+ls
+cd models/
+cd ..
+pwd
+rails c
+rails s -p $PORT -b $IP
+ls
+cd Rails/
+ls
+cd mooovi/
+sudo service httpd start
+sudo service mysqld start
+rails g migration AddRateToProducts
+rake db:migrate
+Scraping.movie_urls
+history
+history
+rails c
+cd Rails
+rails s -p $PORT -b $IP
+cd mooovi/
+rake routes
+rails rails g model review
+rails g model review
+rake db:migrate
+rails s -p $PORT -b $IP
+cd Rails/
+ls
+cd pictweet/
+cd ..
+cd mooovi/
+cd Rails/
+cd mooovi/
+sudo service httpd start
+sudo service mysqld start
+pwd
+bundle install
+rails s -p $PORT -b $IP
+rails g devise:install
+rails g devise:views
+rails g devise user
+rake db:migrate
+rake routes
+cd ..
+sudo yum install ImageMagick
+cd Rails/
+cd mooovi/
+bundle install
+rails active_storage:install
+rails db:migrate
+rails g migration AddNicknameToUsers nickname:string
+rake db:migrate
+rails g migration RemoveNicknameFromReviews nickname:string
+rake db:migrate
+rails g migration AddUserIdToReviews user_id:integer
+rake db:migrate
+rails g controller users
+cd ~/environment/
+cd Rails/
+rails _5.2.1_ new profy -d mysql
+sudo service mysqld start
+sudo service httpd start
+cd Rail
+cd profy/
+pwd
+bundle install
+rake db:create
+cd Rails/
+ls
+cd profy/
+sudo service mysqld start
+sudo service httpd start
+cd Rails/
+cd profy/
+cd ~/environment/Rails/profy/
+sudo service mysqld start
+sudo service httpd start
+rails g devise:install
+rake routes
+rails g controller top
+rails g devise:views
+rails g devise user
+rake db:migrate
+rails s -b $IP -p $PORT
+rails g model group
+rake db:migrate
+rails g migration AddGroupIdToUsers
+rake db:migrate
+rails g controller users
+rails g migration AddColumnToUsers
+rake db:migrate
+bundle install
+rails active_storage:install
+rails db:migrate
+sudo yum install ImageMagick
+rails g controller groups
+rails g model question
+rake db:migrate
+history
+ls
+cd Rails/
+ls
+cd pictweet
+ls
+rails s -b $IP
+sudo service httpd restart
+sudo service mysqld restart
+rails s -b $IP
+cd ..
+ls
+cd profy/
+ls
+sudo service httpd restart
+sudo service mysqld restart
+ls
+cd Rails/
+ls
+cd profy/
+history
+rails g controller questions
+rails g model answer
+rake db:migrate
+rails g controller answers
+rails s -b $IP
+history
+history
+ls
+cd Rails/
+ls
+cd profy/
+hisotry
+history
+sudo service httpd restart
+sudo service mysqld restart
+rails s -b $IP
+sudo service httpd restart
+sudo service mysqld restart
+rails s -b $IP
+ls
+cd Rails
+ls
+cd profy/
+sudo service httpd restart
+sudo service mysqld restart
+ls
+cd Rails/
+cd profy/
+rails s -b $IP
+ruby -v
+Rails -v
+rails -v
+rake db:migrate:reset
+ls
+cd Rails
+cd profy/
+ls
+sudo service httpd restart
+sudo service mysqld restart
+rails s -b $Ip
+rails s -b $IP
+shutdown -h now
+cd ..
+shutdown -h now
+cd ..
+shutdown -h now
+#shutdown -h now
+ls
+cd environment/
+ls
+cd Rails/
+ls
+xd profy/
+cd profy/
+ls
+sudo service httpd restart
+sudo service mysqld restart
+rails s -b $IP
+sudo service httpd restart
+sudo service mysqld restart
+rails s -b $IP
+rails server -h
+rails s -b $IP
+rails s -p $PORT -b $IP
+kill -9 (8224)
+rails s -b $IP
+lsof -wni tcp:3000
+lsof -wni tcp:8080
+kill -9 (8224)
+kill -9 8224
+lsof -wni tcp:8080
+rails s -b $IP
+ls
+cd Rails/
+cd profy/
+rails s -b $IP
+sudo serrvice httpd restart
+sudo service httpd restart
+sudo service mysqld restart
+rails -b $IP
+rails s -b $IP
+rvm
+rails -v
+rails _5.2.2_ new pictweet -d mysql
+rails _5.2.2_ new pictweet2 -d mysql
+pwd
+ls
+cd Rails/
+ls
+rails _5.2.2_ new pictweet2 -d mysql
+cd pictweet2
+pwd
+bundle update
+rake db:create
+ls
+cd Rails/
+cd pictweett2
+ls
+cd pictweet2
+sudo service httpd start
+sudo service mysqld restart
+rails s -p $PORT -b $IP
+rails _5.2.1_ new pictweet2 -d mysql
+pwd
+rails _5.2.1_ new pictweet3 -d mysql
+cd ..
+rails _5.2.1_ new pictweet2 -d mysql
+pwd
+bundle update
+cd ..
+pwd
+rvm --default use 2.5.1
+ruby -v
+sudo service mysqld start
+gem install bundler
+rails _5.2.1_ new pictweet -d mysql
+rails _5.2.1_ new pictweet2 -d mysql
+cd pictweet2
+pwd
+bundle update
+rake db:create
+sudo service httpd restart
+sudo service mysqld restart
+ls
+cd Rails/
+ls
+cd pictweet2
+rails g controller tweets
+rails s -p $PORT -b $IP
+rails s
+sudo service mysqld start
+rails s
+rails g model tweet
+rake db:migrate
+rails c
+pwd
+rails s
+sudo service httpd restart
+sudo service mysqld restart
+rails 
+rails s
+rake routes
+rails s
+pwd
+bundle install
+rails s
+pwd
+bundle install
+rails s
+rails g devise:install
+rails g devise user
+rake db:migrate
+rake routes
+sudo service httpd restart
+sudo service mysqld restart
+rails s
+ls
+cd Rails
+cd pictweet2
+sudo service httpd restart
+sudo service mysqld restart
+cd Rails/
+ls
+cd pictweet2
+ls
+rails g devise:views
+pwd
+rails g migration AddNicknameToUsers nickname:string
+rake db:migrate
+rails g migration AddUserIdToTweets user_id:integer
+rake db:migrate
+sudo service httpd restart
+sudo service mysqld restart
+rails s
+rails s
+rails g controller users
+sudo service httpd restart
+sudo service mysqld restart
+rails g migration RemoveNameFromTweets name:string
+rake db:migrate
+rails s
+sudo service httpd restart
+sudo service mysqld restart
+rails s
+cd Rails
+cd pictweet2
+sudo service httpd restart
+sudo service mysqld restart
+cd Rails/
+cd pictweet2
+rails g model comment
+rake db:migrate
+rails c
+rake roustes
+rake routes
+rails g controller comments
+rails s
+cd ..
+ls
+cd ..
+ls
+git clone https://github.com/exp-drill/mooovi.git
+ls
+cd mooovi
+bundle install
+rake db:create
+sudo service httpd start
+rails s
+cd mooovi
+bundle install
+ruby scraping.rb
+ruby scraping_title.rb 
+ruby scraping_image.rb 
+sudo service httpd restart
+cd Rails/mooovi
+sudo service httpd restart
+sudo service mysqld restart
+cd Rails/mooovi
+rails g model product
+rake db:migrate
+rails s
+cd Rails/mooovi
+cd Rails/mooovi
+sudo service httpd restart
+sudo service mysqld restart
+rails s
+rails c
+class Scraping
+  def self.movie_urls
+    puts 'get movies link URL'
+    # ここに処理を書く
+  end
+  def self.get_product(link)
+    puts 'get movie information'
+    # ここに処理を書く
+  end
+rails c
+rails s
+suosudocd
+cd Rails/mooovi
+sudo service httpd restart
+sudo service mysqld rstart
+sudo service mysqld restart
+rails s
+rails c
+rails g migration AddRateToProducts
+rake db:migrate
+rails c
+Scraping.movie_urls
+reload!
+rails c
+rake routes
+rails g model review
+rake db:migrate
+rake routes
+cd Rails/mooovi
+cd Rails/mooovi
+sudo service httpd restart
+sudo service mysqld restart
+rails s
+cd Rails/mooovi
+cd Rails/mooovi
+sudo service httpd restart
+sudo service mysqld restart
+bundle install
+rails g devise:install
+rails g devise:views
+rails g devise user
+rake db:migrate
+rails s
+rake routes
+sudo yum install ImageMagick
+bundle install
+rails active_storage:install
+rails db:migrate
+rails g migration AddNicknameToUsers nickname:string
+rake db:migrate
+rails g migration RemoveNicknameFromReviews nickname:string
+rake db:migrate
+rails g migration AddUserIdToReviews user_id:integer
+rake db:migrate
+rails g controller users
+cd .. ..
+cd ..
+pwd
+ls
+cd Ruby/
+ruby reviewApp-sample.rb 
+ls
+pwd
+cd Rails2
+cd
+ls
+pwd
+cd Rails2
+ls
+cd environment/
+ls
+cd Rails2
+pwd
+ls
+rails _5.2.1_ new pictweet -d mysql
+rails -v
+rvm
+ls
+cd pictweet
+pwd
+bundle update
+ls
+cd Rails2
+cd
+ls
+cd environment/
+ls
+cd Rails2
+pwd
+ls
+sudo service httpd restart
+sudo service mysqld restart
+rails g controller tweets
+ls
+cd pictweet/
+ls
+pwd
+pwd
+rails g model tweet
+rake db:migrate
+rails s
+cd ..
+ls
+cd Rails
+rails _5.2.1_ new pictweet3 -d mysql
+ls
+cd pictweet3
+pwd
+bundle update
+rake db:create
+pwd
+rails g controller tweets
+cd ..
+ls
+cd Rails/
+cd pictweet3
+pwd
+rails s
+rails g model tweet
+pwd
+rake db:migrate
+pwd
+rails c
+rails v
+rails c
+sudo service httpd restart
+sudo service mysqld restart
+rails s
+pwd
+bundle install
+pwd
+bundle install
+rails g devise:install
+rails g devise user
+rake db:migrate
+ls
+cd Rails/
+ls
+cd pictweet3
+ls
+pwd
+ls
+cd Rails/
+ls
+cd pictweet3
+pwd
+sudo service httpd restart
+sudo service mysqld restart
+rails g devise:views
+rails g migration AddNicknameToUsers nickname:string
+rake db:migrate
+rails c
+rails s
+sudo service httpd restart
+sudo service mysqld restart
+rails g migration AddUserIdToTweets user_id:integer
+rake db:migrate
+rails g controller users
+rails g migration RemoveNameFromTweets name:string
+rake db:migrate
+rake routes
+rails s
+ls
+cd Rails
+ls
+cd pictweet3
+ls
+ls
+cd Rails/
+ls
+cd pictweet3
+sudo service httpd restart
+sudo service mysqld restart
+rails g model comment
+rake db:migrate
+rails g controller comments
+rails s
+ls
+cd Rails/
+ls
+cd Ra
+cd Rai
+ls
+cd pictweet3
+ls
+cd Rails/
+cd pictweet3
+sudo service mysqld restart
+sudo service httpd restart
+sudo service mysqld restart
+history
+rails s
+sudo service httpd restart
+sudo service mysqld restart
+rails s
+cd ..
+cd ..
+git clone https://github.com/exp-drill/mooovi.git
+cd ~/environment/mooovi3
+cd ~/environment/Rails/mooovi3
+ cd ~/environment/Rails/mooovi3
+bundle install
+rake db:create
+cd ..
+ls
+cd mooovi
+cd ..
+ls
+cd mooovi
+bundle install
+rake db:create
+sudo service httpd start
+sudo service mysqld start
+bundle install
+ruby scraping.rb
+ruby scraping_image.rb 
+rails g model product
+rake db:migrate
+rails c
+rails g migration AddRateToProducts
+rake db:migrate
+ruby Scraping.rb
+ruby Scraping.movie_urls
+ruby scraping.movie_urls
+rails c
+rake routes
+rails g model review
+rake db:migrate
+rails c
+rails s
+ls
+cd Rails/
+cd mooovi
+ls
+cd Rails
+cd mooovi
+ls
+ls
+history
+sudo service httpd start
+history
+sudo service mysqld start
+sudo service httpd start
+bundle install
+rails g devise:install
+rails g devise:views
+rails g devise user
+rake db:migrate
+rails s
+rake routes
+sudoo yum install ImageMagick
+sudo yum install ImageMagick
+bundle install
+rails active_storage:install
+rails db:migrate
+rails g migration AddNicknameToUsers nickname:string
+rake db:migrate
+history
+ls
+cd Rails/
+ls
+cd mooovi
+ls
+cd Rails/
+cd mooovi
+sudo service httpd start
+sudo service mysqld start
+rails g migration RemoveNicknameFromReviews nickname:string
+rake db:migrate
+rails g migration AddUserIdToReviews user_id:integer
+rake db:migrate
+rails c
+rails g controller users
+rails s
+cd ..
+cd ..
+rails _5.2.1_ new profy -d mysql
+sudo service mysqld start
+sudo service httpd
+sudo service httpd start
+cd profy
+bundle install
+rake db:create
+rails g devise
+rails g devise:install
+rails s
+sudo service httpd start
+sudo service httpd restart
+sudo service mysqld restart
+rails 
+rails s
+cd profy
+sudo service mysqld restart
+sudo service httpd restart
+ls
+rake routes
+rails g controller top
+cd
+ls
+cd Rails
+ls
+cd environment/
+ls
+cd Rails/
+cd pro
+cd profy
+rails s
+rails g devise:views
+rails g devise user
+rake db:migrate
+ls
+cd Rails
+pwd
+rails _5.2.1_ new miniblog -d mysql
+ls
+cd miniblog/
+ls
+cd Rails/
+cd miniblog/
+pwd
+bundle install
+bundle update
+rake db:create
+sudo service httpd restart
+sudo service mysqld restart
+rake routes
+rails g controller blogs
+rails s
+history
+rake db:create
+rails g model blogs
+rake db:migrate
+rails g devise:install
+rails g devise user
+rake db:migrate
+history
+rake routes
+rails g devise:views
+rails g migration AddUsernameToUsers nickname:string
+rake db:migrate
+sudo service httpd restart
+sudo service mysqld restart
+rails s
+sudo service mysqld restart
+rails s
+rails c
+ls
+cd Rails
+ls
+cd miniblog
+rails s
+cd Rails/miniblog/
+history
+sudo service httpd restart
+sudo service mysqld restart
+rails s
+cd ..
+ls
+cd profy
+cd ..
+cd profy
+history
+sudo service httpd restart
+sudo service mysqld restart
+rails s
+rails g model group
+rake db:migrate
+rails g migration AddGroupIdToUsers
+rake db:migrate
+ls
+pwd
+ls
+cd Rails/
+ls
+rails _5.2.1_ new sen01 -d mysql
+pwd
+ls
+cd sen01/
+pwd
+bundle update
+bundle install
+rake db:create
+history
+sudo service httpd restart
+sudo service mysqld restart
+rails s
+ls
+cd Rails/
+ls
+cd sen01/
+ls
+sudo service httpd restart
+sudo service mysqld restart
+rails s
+pwd
+rails g controller historys
+history
+history
+rake db:create
+rails s
+sudo service httpd restart
+sudo service mysqld restart
+rails s
+rails g model history
+pwd
+rake db:migrate
+rake routes
+rails s
+rails g devise:install
+rails g devise user
+rake db:migrate
+rails s
+rails g devise:views
+rails g migration AddColumnToUsers
+cd ..
+ls
+cd ..
+ls
+cd Rails/
+ls
+cd profy
+cd rails g controller users
+pwd
+rails g controller users
+cd Rails
+ls
+cd profy
+ls
+pwd
+pwd
+history
+sudo service httpd restart
+sudo service mysqld restart
+rails s
+rails g migration AddColumnToUsers
+rake db:migrate
+sudo yum install ImageMagick
+bundle install
+rails active_storage:install
+rails db:migrate
+rails g controller groups
+rails g model question
+history
+rake db:migrate
+rails g controller questions
+rails g model answer
+rake db:migrate
+rails g controller answers
+ls
+cd Rails
+ls
+cd profy
+ls
+cd Rails
+ls
+cd profy
+ls
+history
+sudo service httpd restart
+sudo service mysqld restart
+rails g model feed_content
+rake db:migrate
+rails s
+pwd
+bundle install
+ls
+cd techcamp-js/
+rails _5.2.1_ new test-js -d mysql
+cd ..
+ls
+cd Rails
+ls
+rails _5.2.1_ new test-js -d mysql
+ls
+cd test-js/
+rake db:create
+bundle install
+rails g controller top
+ls
+cd Rails
+ls
+cd test-js/
+history
+sudo service httpd restart
+sudo service mysqld restart
+rails s
+rails s
+history
+rake db:create
+cd ..
+ls
+ls
+cd ..
+ls
+rails _5.2.1_ new test-js -d mysql
+ls
+cd test-js/
+pwd
+rake db:create
+bundle install
+ls
+cd Rails
+cd teq
+ls
+cd test-js/
+rails g contoller top
+rails g controller top
+pwd
+ls
+rails g controller top
+cd ..
+cd rails _5.2.1_ new test-js -d mysql
+rails _5.2.1_ new test-js -d mysql
+ls test-js/
+pwd
+ls
+cd test-js/
+pwd
+rake db:create
+bundle install
+rails g controller top
+cd test-js/
+ls
+history
+rails g controller top
+bundle exec spring stop
+rails g controller top
+history
+sudo service httpd restart
+sudo service mysqld restart
+rails s
+history
+sudo service httpd restart
+ls
+cd Rails/
+ls
+cd test-js/
+ls
+sudo service httpd restart
+ls
+sudo service mysqld restart
+ls
+cd Rails/
+ls
+cd test-js/
+ls
+bundle install
+rails s
+ls
+pwd
+ls
+cd Rails/
+ls
+rails _5.2.1_ new gitpractice -d mysql
+cd Rails
+ls
+cd gitpractice
+hisotry
+history
+sudo service httpd restart
+sudo service mysqld restart
+rails s
+bundle update
+rails s
+rake db:create
+ls
+pwd
+ls
+cd gitpractice/
+ls
+pwd
+pwd
+ls
+rake db:create
+git --version
+git init
+git add .
+git commit -m "first commit"
+git remote add origin git@github.com:Fox-ag/git_nekotter.git
+ssh-keygen
+cat ~/.ssh/id_rsa.pub 
+git push -u origin master
+rails s
+git add congif/routes.rb
+git add config/routes.rb
+git commit -m
+git branch create_top_page_view
+git checkout create_top_page_view
+rails g controller tweets
+git add .
+git commit -m "コントローラと関連ファイルの作成"
+git commit -a -m
+git add .
+git status
+git reset HEAD .
+git status
+git branch
+git push origin create_top_page_view
+shitory
+history
+hitosry
+history
+cd Rails/gitpractice/
+sudo service httpd restart
+sudo service mysqld restart
+rails s
+ls
+cd Rails
+ls
+cd mooovi3
+sudo service httpd restart
+sudo service mysqld restart
+rails s
+cd ..
+ls
+cd mooovi2
+rails s
+bin/rails db:migrate RAILS_ENV=development
+rails s
+rails db:reset
+rails s
+ls
+cd techcamp-js/
+cd ..
+cd techcamp-js/
+rails _5.2.1_ new test-js -d mysql
+cd ..
+cd Rails/
+rails _5.2.1_ new test-js -d mysql
+bundle install
+cd test-js/
+bundle install
+rails g controller top
+rails s
+history
+rails 
+rails s
+sudo service mysqld start
+rails s
+bundle install
+rails s
+cd ..
+rails _5.2.1_ new memo-app -d mysql
+cd memo-app/
+rake db:create
+rails g model memo text:string
+rake db:migrate
+ls
+cd Rails
+ls
+cd pictweet
+sudo service httpd restart
+sudo service mysqld restart
+rails s
+cd Rails/gitpractice/
+sudo service httpd restart
+sudos service mysqld restart
+sudo service mysqld restart
+rails s
+ls
+cd Rails
+ls
+rails _5.2.1_ new d3test -d mysql
+ls
+cd d3test/
+pwd
+bundle install
+bundle update
+rails g controller blogs
+rails s
+rails db:create
+sudo service httpd restart
+sudo service mysqld restart
+rails s
+rails db:create
+cd Rails/d3test/
+rake routes
+rails s
+history
+sudo yum -y install phpadmin
+rails g model blog
+rails db:migrate
+rails s
+ls
+cd Python/
+ls
+cd Rails/d3test/
+sudo service httpd restart
+sudo service mysqld restart
+rails s
+cd Rails/d3test/
+sudo service httpd restart
+sudo service mysqld restart
+rails s
+ls
+cd Rails/d3test/
+sudo service httpd restart
+sudo service mysqld rstart
+sudo service mysqld restart
+rails s
+rails generate migration AddColumnBlogs
+history
+rails db:migrate
+rails s
+cd Rails/gitpractice/
+sudo service httpd restart
+sudo service mysqld restart
+rails s
+cd ..
+ls
+cd d3test/
+sudo service httpd restart
+sudo service mysqld restart
+rails s
+cd Rails/d3test/
+sudo service httpd restart
+sudo service mysqld restart
+rails s
+cd Rails/d3test/
+sudo service httpd restart
+sudo service mysqld restart
+rails s
+cd Rails/d3test/
+sudo service httpd restart
+sudo service mysqld restart
+rails s
+cd Rails/d3test/
+sudo service httpd restart
+sudo service mysqld restart
+rails s
+cd Rails/d3test/
+sudo service httpd restart
+sudo service mysqld restart
+rails s
+cd Rails/d3test/
+sudo service httpd restart
+sudo service mysqld restart
+rails s
+cd Rails/d3test/
+sudo service httpd restart
+sudo service mysqld restart
+rails s
+ls
+cd Python/
+history
+history -w history.txt
+cd Python/
+sudo python3 -m pip install jupyter numpy pandas matplotlib==3.2.1
+pip install --upgrade pip
+pip install --upgrade pip
+cd Rails/d3test/
+sudo service httpd restart
+sudo service mysqld restart
+rails s
+rails g model talk
+rails db:migrate
+rails g controller talks
+rails d controller talks
+rake routes
+rails g controller talks
+rake routes
+rails s
+rakee routes
+rake routes
+cd Rails/d3test/
+ls
+sudo service httpd restart
+sudo service mysqld restart
+rails s
+ls
+cd Rails
+ls
+cd d3test/
+history -w history.txt
+sudo service httpd restart
+sudo service mysqld restart
+rails s
+git --version
+pwd
+git init
+git add .
+git commit -m "test commit"
+git remote add origin git@github.com:Fox-ag/git_d3test.git
+git push -u origin master
+ssh-keygen -R github.com
+github.com ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOMqqnkVzrm0SdG6UOoqKLsabgH5C9okWi0dh2l9GKJl
+github.com ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBEmKSENjQEezOmxkZMy7opKgwFB9nkt5YRrYMjNuG5N87uRgg6CLrbo5wAdT/y6v0mKV0U2w0WZ2YB/++Tpockg=
+github.com ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCj7ndNxQowgcQnjshcLrqPEiiphnt+VTTvDP6mHBL9j1aNUkY4Ue1gvwnGLVlOhGeYrnZaMgRK6+PKCUXaDbC7qtbW8gIkhL7aGCsOr/C56SJMy/BCZfxd1nWzAOxSDPgVsmerOBYfNqltV9/hWCqBywINIR+5dIg6JTJ72pcEpEjcYgXkE2YEFXV1JHnsKgbLWNlhScqb2UmyRkQyytRLtL+38TGxkxCflmO+5Z8CSSNY7GidjMIZ7Q4zMjA2n1nGrlTDkzwDCsw+wqFPGQA179cnfGWOWRVruj16z6XyvxvjJwbz0wQZ75XK5tKSb7FNyeIEs4TT4jk+S4dhPeAUC5y+bDYirYgM4GC7uEnztnZyaVWQ7B381AK4Qdrwt51ZqExKbQpTUNn+EjqoTwvqNj4kqx5QUCI0ThS/YkOxJCXmPUWZbhjpCg56i+2aB6CmK2JGhn57K5mj0MNdBXA4/WnwH6XoPWJzK5Nyu2zB3nAZp+S5hpQs+p1vN1/wsjk=
+git init
+git add .
+git commit -m "first test commit"
+git remote add origin git@github.com:Fox-ag/git_d3test.git
+git push -u origin master
+ssh -T git@github.com
+ssh -vT git@github.com
+cd ~/.ssh
+ls
+history -w history.txt
+cd ~/environment/Rails/d3test
+git remote -v
+git push -u origin master
+ssh -T git@github.com
+cd ~/.ssh
+ls
+cat ~/.ssh/id_rsa.pub
+cd ~/environment/Rails/d3test
+git push -u origin master
+ssh -T git@github.com
+curl -OL https://cli-assets.heroku.com/heroku-linux-x64.tar.gz
+tar zxf heroku-linux-x64.tar.gz && rm -f heroku-linux-x64.tar.gz
+curl -OL https://cli-assets.heroku.com/heroku-linux-x64.tar.gz
+tar zxf heroku-linux-x64.tar.gz && rm -f heroku-linux-x64.tar.gz
+sudo mv heroku /usr/local
+echo 'PATH=/usr/local/heroku/bin:$PATH' >> $HOME/.bash_profile
+source $HOME/.bash_profile > /dev/null
+heroku --version
+brew reinstall heroku
+curl -OL https://cli-assets.heroku.com/heroku-linux-x64.tar.gz
+tar zxf heroku-linux-x64.tar.gz
+curl -OL https://cli-assets.heroku.com/heroku-linux-x64.tar.gz
+heroku --version
+source <(curl -sL https://cdn.learnenough.com/heroku_install)
+curl https://cli-assets.heroku.com/install.sh | sh
+curl -OL https://cli-assets.heroku.com/heroku-linux-x64.tar.gz
+tar zxf heroku-linux-x64.tar.gz && rm -f heroku-linux-x64.tar.gz
+df -h
+sudo df -h
+sudo du -sh /*
+cd Rails/d3test/
+history -w history.txt
+curl -OL https://cli-assets.heroku.com/heroku-linux-x64.tar.gz
+tar zxf heroku-linux-x64.tar.gz && rm -f heroku-linux-x64.tar.gz
+sudo df -h
+lsblk
+sudo growpart /dev/xvda 1
+sudo resize2fs /dev/xvda1
+lsblk
+sudo df -h
+curl -OL https://cli-assets.heroku.com/heroku-linux-x64.tar.gz
+tar zxf heroku-linux-x64.tar.gz && rm -f heroku-linux-x64.tar.gz
+sudo mv heroku /usr/local
+echo 'PATH=/usr/local/heroku/bin:$PATH' >> $HOME/.bash_profile
+source $HOME/.bash_profile > /dev/null
+herokou --version
+heroku --version
+heroku update
+curl -sL https://cdn.learnenough.com/heroku_install
+PATH=/usr/local/heroku/bin:$PATH
+heroku --version
+history -w history.txt
