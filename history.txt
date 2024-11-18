@@ -1385,3 +1385,153 @@ curl -sL https://cdn.learnenough.com/heroku_install
 PATH=/usr/local/heroku/bin:$PATH
 heroku --version
 history -w history.txt
+cd Rails/d3test/
+sudo service httpd restart
+sudo service mysqld restart
+rails s
+git --version
+git init
+git add .
+git commit -m "test for d3test"
+git remote add origin git@github.com:Fox-ag/d3tester.git
+git push -u origin master
+rm /heroku
+ls
+rm heroku
+heroku --version
+gem uninstall heroku --all
+sudo heroku --version
+sudo rm heroku
+sudo rm -rf heroku
+git add .
+git commit -m "test for d3test2"
+git push -u origin master
+cd .. ..
+pwd
+cd ..
+curl -OL https://cli-assets.heroku.com/heroku-linux-x64.tar.gz
+tar zxf heroku-linux-x64.tar.gz && rm -f heroku-linux-x64.tar.gz
+sudo mv heroku /usr/local
+vim ~/.bashrc
+sudo mv heroku /usr/local
+vim ~/.bashrc
+sudo mv heroku /usr/local
+vim ~/.bashrc
+sudo mv heroku /usr/local
+vim ~/.bashrc
+heroku --version
+echo 'PATH=/usr/local/heroku/bin:$PATH' >> $HOME/.bash_profile
+source $HOME/.bash_profile > /dev/null
+heroku --version
+rm /usr/local/bin/heroku
+rm -rf /usr/local/bin/heroku
+rm -rf /usr/local/lib/heroku /usr/local/heroku
+rm -rf ~/.local/share/heroku ~/.cache/heroku
+heroku --version
+curl -OL https://cli-assets.heroku.com/heroku-linux-x64.tar.gz
+tar zxf heroku-linux-x64.tar.gz && rm -f heroku-linux-x64.tar.gz
+sudo mv heroku /usr/local
+echo 'PATH=/usr/local/heroku/bin:$PATH' >> $HOME/.bash_profile
+source $HOME/.bash_profile > /dev/null
+heroku --version
+ls
+cd Rails
+ls
+cd d3test/
+heroku login --interactive
+bundle install
+heroku create d3test
+heroku stack
+heroku stack:set heroku-20 d3test
+heroku stack:set heroku-20 -app d3test
+heroku stack:set heroku-20 --app d3test
+heroku stack
+heroku addons:add cleardb
+heroku config | grep JAWSDB_URL
+heroku config:set DATABASE_URL=mysql2://rtzlviwlmf2o657d:d6tan77jl217nvc7@ryvdxs57afyjk41z.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/cqs1w45galkm7xus
+git add .
+git commit -m "update d3test app for heroku"
+git push heroku master
+history -w history.txt
+bundle install
+ruby -v
+gem update --system
+rbenv install -l
+rvm list known
+git push -u origin master
+cd ~/.ssh
+ls
+cat ~/.ssh/id_rsa.pub
+ssh -T git@github.com
+cd ~/environment/Rails/d3test
+git push -u origin master
+git add .
+git commit -m "update d3tester again"
+git push -u origin master
+rvm get stable
+gpg2 --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3
+rvm get stable
+command curl -sSL https://rvm.io/mpapis.asc | gpg2 --import -
+rvm get stable
+cd ..
+ruby -v
+rvm get stable
+rvm install 3.1.2
+rvm get stable
+cd Rails/gitpractice/
+sudo service httpd restart
+sudo service mysqld restart
+rails s
+cd ..
+ls
+cd d3test/
+rails s
+sudo service httpd restart
+sudo service mysqld restart
+rails s
+cd ..
+git checkout 367f5d45123bd18615d26a8819d1da02ca84e5fc
+git clone 367f5d45123bd18615d26a8819d1da02ca84e5fc
+git clone git@github.com:Fox-ag/d3tester.git
+cd d3tester
+git checkout 367f5d45123bd18615d26a8819d1da02ca84e5fc
+sudo service httpd restart
+sudo service mysqld restart
+rails s
+heroku --version
+git log origin/master
+uit
+cd ..
+ls
+cd d3test
+sudo service httpd restart
+sudo service mysqld restart
+rails s
+cd ..
+ls
+cd d3tester
+git branch --contains
+git push origin 367f5d4:master --force
+git log origin/master
+git branch -D master
+git log origin/master
+git checkout -b master origin/master
+ls
+cd Rails
+ls
+cd d3tester
+sudo service httpd restart
+sudo service mysqld restart
+rails s
+history -w history.txt
+heroku --version
+bundle install
+heroku login --interactive
+heroku logout
+heroku login --interactive
+heroku stack:set heroku-20
+--help
+heroku apps:stacks
+heroku --help
+heroku stack
+history -w history.txt
