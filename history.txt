@@ -1595,3 +1595,31 @@ rails --version
 rvm install 2.7.3
 cd Rails/d3tester
 history -w history.txt
+ruby version
+ruby -v
+rvm --default use 2.7.3
+bundle update
+bundle install
+git add .
+git commit -m "rubyバージョンが古く、herokuにデプロイできなかったため、rvmのアップデートruby2.7.3のインストール、gemファイルの修正とbundle installを実行"
+git push -u origin master
+sudo service httpd restart
+sudo service mysqld restart
+rails s
+history -w history.txt
+git push heroku master
+heroku run rails db:migrate
+heroku apps:info
+history -w history.txt
+heroku config | grep DATABASE_URL
+heroku config | grep JAWSDB_URL
+heroku config | grep JAWSDB_DATABASE_URL
+heroku config | grep JAWSDB_URL
+nslookup ryvdxs57afyjk41z.cbetxkdyhwsb.us-east-1.rds.amazonaws.com
+telnet 44.194.163.203 3306
+ping ryvdxs57afyjk41z.cbetxkdyhwsb.us-east-1.rds.amazonaws.com
+nc -zv 44.194.163.203 3306
+mysql --version
+heroku config | grep JAWSDB_URL
+heroku config:set DATABASE_URL=mysql2://tmob70ishb4thfqa:chaksfws4wioed68@nnmeqdrilkem9ked.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/a98qs47qcx7itz5b
+history -w history.txt
